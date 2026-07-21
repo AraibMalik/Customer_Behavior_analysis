@@ -227,4 +227,6 @@ Skills:
 
 The complete project report is available in this repository.
 
-- 📄 Customer Behavior Analysis Report.pdf```
+- 📄 Customer Behavior Analysis Full Report.pdf
+-
+- ```
