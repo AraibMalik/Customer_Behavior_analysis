@@ -226,5 +226,5 @@ Skills:
 ## Project Report
 
 The complete project report is available in this repository.
-https://github.com/AraibMalik/Customer_Behavior_analysis/tree/main
-```
+
+- 📄 Customer Behavior Analysis Report.pdf```
